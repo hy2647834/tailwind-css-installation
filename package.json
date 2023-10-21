@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hy2647834/tailwind-css-installation/issues"
   },
-  "homepage": "https://github.com/hy2647834/tailwind-css-installation#readme"
+  "homepage": "https://github.com/hy2647834/tailwind-css-installation#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
 }
