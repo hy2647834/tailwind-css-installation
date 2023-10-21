@@ -4,6 +4,7 @@
   "description": "Steps to create an application with tailwind css on vscode",
   "main": "index.js",
   "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./public/style.css --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
